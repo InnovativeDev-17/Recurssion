@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//Addition of numbers
 #include<iostream>
 using namespace std;
 
