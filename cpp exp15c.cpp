@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//factorial
 #include<iostream>
 using namespace std;
 
