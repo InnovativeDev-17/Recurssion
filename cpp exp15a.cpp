@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//Reverse string
 #include <iostream>
 using namespace std;
 
